@@ -9,10 +9,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="monitor.sudep.application.bluetoothalert.MainActivity">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Check"
-        android:onClick="doDiscovery"/>
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Check"-->
+        <!--android:onClick="doDiscovery"/>-->
 
 </RelativeLayout>
